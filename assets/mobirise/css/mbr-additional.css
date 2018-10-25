@@ -1823,16 +1823,15 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-r7sSwzuHcB {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-r7sUSU6tkQ {
   background: #ffffff;
 }
-.cid-r7sSwzuHcB .video-block {
+.cid-r7sUSU6tkQ .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-r7sSwzuHcB .video-block {
+  .cid-r7sUSU6tkQ .video-block {
     width: 100% !important;
   }
 }
